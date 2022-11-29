@@ -1,4 +1,3 @@
-
 //Only counts the words in the text, trims the empty spaces
 
 package main
@@ -9,6 +8,7 @@ import (
 	"strings"
 )
 
+// main function
 func main() {
 	str := "   this 	program	 count      only the words, not    the    spaces or tabs   "
 	r := regexp.MustCompile(`\s+`)
