@@ -2,7 +2,7 @@
 CLOSURES
 We made of anonymous functions to enclose the scope of a variable.
 When declaring a variable to which an anonymous function is assigned by calling a function that returns an anonymous function, that variable is of type function and since it is an anonymous function,
-it also receives the environment of the scope of that function where the function is enclosed. initial variable.
+it also receives the environment of the scope of that function where the inicial variable function is enclosed.
 */
 package main
 
