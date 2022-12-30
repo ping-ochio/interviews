@@ -1,0 +1,5 @@
+mode: set
+test/dogui/main.go:5.21,8.2 1 1
+test/dogui/main.go:11.24,13.25 2 1
+test/dogui/main.go:16.2,16.14 1 1
+test/dogui/main.go:13.25,15.3 1 1
